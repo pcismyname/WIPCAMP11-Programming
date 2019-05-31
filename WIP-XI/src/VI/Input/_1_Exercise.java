@@ -16,7 +16,7 @@ public class _1_Exercise {
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
          
-         int x;
+         int x=10;
          int y;
          
         System.out.print("Enter x : ");
